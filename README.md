@@ -1,7 +1,7 @@
 eulerProject
 ============
 
-My own solution for project Euler projects
+My own solution for project Euler puzzles/projects
 
 ============
 I will upload solutions to new problems from time to time
